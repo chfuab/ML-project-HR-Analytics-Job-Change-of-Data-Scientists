@@ -6,4 +6,13 @@ A company wants to hire data scientists among people who have passed some course
 ## Aim of the project
 This project aims at selecting the machine learning models with the best performance in predicting whether a candidate will look for new employment or not.
 
-## 
+## Content of the project
+  ### Data preprocessing
+      Filling missing values by mode
+      Drop columns useless for data analysis
+      Data cleaning
+  ### Exploratory data analysis
+      ![image](https://user-images.githubusercontent.com/59590018/144818775-73ea89c2-3256-453d-b467-5fc108f017ac.png)
+      
+  ### Comparing performance of different machine learning models
+  ### 
