@@ -12,7 +12,10 @@ This project aims at selecting the machine learning models with the best perform
       Drop columns useless for data analysis
       Data cleaning
   ### Exploratory data analysis
-      ![image](https://user-images.githubusercontent.com/59590018/144818775-73ea89c2-3256-453d-b467-5fc108f017ac.png)
+      ![imbalance data](https://user-images.githubusercontent.com/59590018/144829614-4ff479a7-8889-4af4-b8c2-9d7af9fdd2c0.png)
+      
+      ![experience_look_for_new_job](https://user-images.githubusercontent.com/59590018/144830044-680b875b-93f7-48f8-a245-9d620d285468.png)
+
       
   ### Comparing performance of different machine learning models
   ### 
