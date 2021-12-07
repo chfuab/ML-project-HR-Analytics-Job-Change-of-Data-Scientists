@@ -23,6 +23,6 @@ Performance (without upsampling) of kNN, Naive Bayes classifier, Decision tree a
 SMOTENC, SMOTEENN and Resampling are compared. Resampling gives the best performance <br />
 ![resampling](https://github.com/chfuab/ML-project-HR-Analytics-Job-Change-of-Data-Scientists/blob/main/image/Random%20Forest%20with%20Resampling.png)
 ### Hyperparameters optimization
-Random search for optimized parameters is performed 
+Random search for optimized parameters is performed <br />
 ![Hyperparameters optimization](https://github.com/chfuab/ML-project-HR-Analytics-Job-Change-of-Data-Scientists/blob/main/image/Hyperparameters_optimization.png)
 
